@@ -544,7 +544,7 @@ section.active {
     position: absolute;
     top: -60%;
     left: 50%;
-    transform: translateX(-50%); scale(.9);
+    transform: translateX(-50%) scale(.9);
     font-size: 1.6rem;
     white-space: nowrap;
     padding: .5rem 1rem;
