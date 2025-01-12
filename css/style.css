@@ -866,7 +866,6 @@ section.active {
     .resume-detail.about .resume-items {
         text-align: center;
     }
-
     .home-detail .btn-sci {
         flex-direction: column-reverse;
     }
@@ -874,6 +873,7 @@ section.active {
     .home-detail .btn-sci .btn {
         margin-left: 0;
         margin-bottom: 2rem;
+        margin-top: 3rem;
     }    
 
     .contact-box form {
