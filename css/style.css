@@ -453,11 +453,21 @@ section.active {
     justify-content: center;
 }
 
+.resume-list .resume-items a {
+    font-size: 2rem;
+    color: var(--main-color);
+    margin-bottom: 1rem;
+    font-weight: 900;
+}
+
 .resume-items .year {
     color: var(--main-color);
 }
 
 .resume-items h3 {
+    font-size: 2.2rem;
+}
+.resume-items .cont {
     font-size: 2.2rem;
 }
 
